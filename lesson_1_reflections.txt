@@ -1,0 +1,70 @@
+How did viewing diff between two versions of a file help you
+see the bug that was introduced?
+
+Using diff is a bit difficult at first, due to the extra
+markings and not being sure of their meaning.
+
+After looking at it for a bit I was able to pick out the
+original code and see where the typo was in comparing
+game_old.js and game_new.js.
+
+-------------------------------------------------------------
+QUESTION: How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+
+ANSWER: Having the file's history would allow me to view past
+versions and the changes since that past version. If I wanted
+to go back to a prior version's code base then I could use
+the history to go back to a time before a bug had been 
+introduced in the code, for example.
+
+This would make me a much more efficient programmer.
+-------------------------------------------------------------
+QUESTION: What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+
+ANSWER: Pros are controlling commits, able to commit logically,
+able to commit after certain milestons.
+Cons: Forgetting to commit, commits not done frequently enough,
+commits are not performed logically.
+-------------------------------------------------------------
+QUESTION: Why do you think some version control systems, like
+Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+ANSWER: Allowing multiple files to be saved in one commit is
+important when files are dependent on each other for their 
+code.  These files work together hand in hand to provide
+some computer functionality. Git stores computer related files
+which are dependent upon one another in order to work. The 
+file saving features of Google Docs do not take into account
+file dependency, as Google Docs does not store computer
+related code files, but rather saves business/educational
+type documents.
+
+-------------------------------------------------------------
+QUESTION: How can you use the commands git log and git diff 
+to view the history of files?
+
+ANSWER: I can use git log to see the history of commits along
+with their ID.  Then I pick an ID that I want to compare to 
+the previous ID (commit) and type them in like so using git
+diff:
+EXAMPLE: git diff 'commit ID old' 'commit ID new'
+
+------------------------------------------------------------
+QUESTION: How might using version control make you more 
+confident to make changes that could break something?
+
+ANSWER: Knowing that git can revert to previous versions
+makes me more confident that I can return to prior code
+that was not broken.
+
+------------------------------------------------------------
+QUESTION: Now that you have your workspace set up, what do
+you want to try using Git for?
+
+ANSWER: I want to use Git to provide examples of my code to 
+potential employers.
+
