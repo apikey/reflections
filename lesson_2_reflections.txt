@@ -29,3 +29,11 @@ Another situation is when I want to make a newer version
 of the code by keeping some elements but then starting 
 over on some other elements, I could use a branch of
 the main repository to make those changes.
+
+---------------------------------------------------------
+QUESTION: How do the diagrams help you visualize the 
+branch structure?
+
+ANSWER: The branch structure is difficult to visualize
+with a diagram.  When a thing has many parts to it using
+a diagram can't help but given you more understanding.
