@@ -1,0 +1,10 @@
+QUESTION: What happens when you initialize a repository?
+Why do you need to do it?
+
+ANSWER: When you initialize a repository git create a .git 
+file in the directory.  The file signifies the git 
+metadata that is used to track files and their changes.
+
+Initializing git is necessary to set up git for use and
+in creating a repository.
+-----------------------------------------------------------
