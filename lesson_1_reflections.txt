@@ -68,3 +68,12 @@ you want to try using Git for?
 ANSWER: I want to use Git to provide examples of my code to 
 potential employers.
 
+------------------------------------------------------------
+QUESTION: How is the staging area different from the working
+directory and the repository?  What value do you think it 
+offers?
+
+ANSWER: The staging area is like a holding area for documents
+to be added in a commit.  The value of it is that before you
+make commits you can undo any files that have been added to
+the staging area if you change your mind.
