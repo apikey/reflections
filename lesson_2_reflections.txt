@@ -15,3 +15,17 @@ have one commit per logical change?
 ANSWER: Using the staging area as a holding place
 that I can go back to and verify changes before committing 
 allows helps me ensure I make logical commits.
+
+----------------------------------------------------------
+QUESTION: What are some situations when branches would be
+helpful in keeping your history organized?  How would 
+branches help?
+
+ANSWER: If I wanted to update a portion of my code
+while still keeping the main repository unchanged, I 
+could create a branch that now has that code.
+
+Another situation is when I want to make a newer version
+of the code by keeping some elements but then starting 
+over on some other elements, I could use a branch of
+the main repository to make those changes.
