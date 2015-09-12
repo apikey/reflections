@@ -16,3 +16,10 @@ When would you use one instead of another?
 ANSWER: Forks are used to clone a project on GitHub.  Clones are used
 to copy a repository on a local machine.  Branches are used to branch
 away from another repository.
+
+-----------------------------------------------------------------------------
+QUESTION: What is the benefit of having a copy of the last known state of 
+the remote stored locally?
+
+ANSWERED: If you are working offline then you can check the remote
+repository state without having to go online.
