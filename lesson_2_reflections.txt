@@ -49,3 +49,10 @@ sets of commits and incorporating them with one another.
 Showing it in the diagram allows one to visually see the 
 branches that are there and then how they are brought 
 together as one. 
+
+--------------------------------------------------------------
+QUESTION: What are the pros and cons of Git's automatic
+merging vs. always doing merges manually?
+
+ANSWER: I didn't get that Git performs automatic merging.  I 
+felt like I was doing it manually the whole time.
