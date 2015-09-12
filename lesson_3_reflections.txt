@@ -23,3 +23,13 @@ the remote stored locally?
 
 ANSWERED: If you are working offline then you can check the remote
 repository state without having to go online.
+
+-----------------------------------------------------------------------------
+QUESTION: How would you collaborate without using Git or GitHub?  What
+would be easier, and what would be harder?
+
+ANSWER: I would use a file sharing service like Google Drive or Drop Box.
+Usin Git and GitHub would be easier because of being able to manage 
+changes to files and Git provides version control.  Google Drive and Drop
+Box may provide some thing similar but there is not staging area and way
+to easily collaborate.
