@@ -37,3 +37,15 @@ branch structure?
 ANSWER: The branch structure is difficult to visualize
 with a diagram.  When a thing has many parts to it using
 a diagram can't help but given you more understanding.
+
+---------------------------------------------------------
+QUESTION: What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+ANSWER: The result of merging the two branches brings to sets
+of commits together. It is the bringing together two different
+sets of commits and incorporating them with one another.
+
+Showing it in the diagram allows one to visually see the 
+branches that are there and then how they are brought 
+together as one. 
