@@ -8,3 +8,11 @@ having Git automatically stay up-to-date with your remote repository?
 
 ANSWER: In the event that you want to reverse any changes committed
 on the remote repository.
+
+-----------------------------------------------------------------------------
+QUESTION: Describe the differences between forks, clones, and branches.  
+When would you use one instead of another?
+
+ANSWER: Forks are used to clone a project on GitHub.  Clones are used
+to copy a repository on a local machine.  Branches are used to branch
+away from another repository.
