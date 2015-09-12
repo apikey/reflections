@@ -33,3 +33,14 @@ Usin Git and GitHub would be easier because of being able to manage
 changes to files and Git provides version control.  Google Drive and Drop
 Box may provide some thing similar but there is not staging area and way
 to easily collaborate.
+
+---------------------------------------------------------------------------
+QUESTION: When would you want to make changes in a separate branch rather
+than directly in master?  What benefits does each approach have?
+
+ANSWER: When you are testing out a new feature that you are not sure you
+want to include in your project.  Working in the master without branching
+has the benefit of easily having those changes already in the master 
+without having to merge.  The benefit of branching and the making the 
+changes has the benefit of keeping the master in a stable condition
+and not affect by a bunch of changes.
